@@ -14,6 +14,6 @@ donation board
 
 gamepass
 
-rank system 
+rank system  ("group ranks and ingame")
 
 music system
